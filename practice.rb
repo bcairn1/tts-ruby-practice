@@ -1,3 +1,5 @@
+
+
 # this would have to be typed twice without assignment
 
 #puts "...you can say that again"
@@ -38,6 +40,8 @@ puts my_own_variable
 #success!
 
 puts space
+
+# I'm making a change to test out git.
 
 #just about anything... except for other variables:
 var1 = 8
